@@ -201,78 +201,44 @@ PaleGreen           | #98FB98       | <span style="background-color:palegreen; d
 PaleTurquoise       | #AFEEEE       | <span style="background-color:paleturquoise; display:block; width: 100px">&nbsp;</span>
 PaleVioletRed       | #DB7093       | <span style="background-color:palevioletred; display:block; width: 100px">&nbsp;</span>
 PapayaWhip          | #FFEFD5       | <span style="background-color:papayawhip; display:block; width: 100px">&nbsp;</span>
-PeachPuff           | #FFDAB9
-Peru
-#CD853F
-Pink
-#FFC0CB
-Plum
-#DDA0DD
-PowderBlue
-#B0E0E6
-Purple
-#800080
-&nbsp;              |   &nbsp;      | &nbsp;
-RebeccaPurple
-#663399
-Red
-#FF0000
-RosyBrown
-#BC8F8F
-RoyalBlue
-#4169E1
-&nbsp;              |   &nbsp;      | &nbsp;
-SaddleBrown
-#8B4513
-Salmon
-#FA8072
-SandyBrown
-#F4A460
-SeaGreen
-#2E8B57
-SeaShell
-#FFF5EE
-Sienna
-#A0522D
-Silver
-#C0C0C0
-SkyBlue
-#87CEEB
-SlateBlue
-#6A5ACD
-SlateGray
-#708090
-SlateGrey
-#708090
-Snow
-#FFFAFA
-SpringGreen
-#00FF7F
-SteelBlue
-#4682B4
-&nbsp;              |   &nbsp;      | &nbsp;
-Tan
-#D2B48C
-Teal
-#008080
-Thistle
-#D8BFD8
-Tomato
-#FF6347
-Turquoise
-#40E0D0
-&nbsp;              |   &nbsp;      | &nbsp;
-Violet
-#EE82EE
-&nbsp;              |   &nbsp;      | &nbsp;
-Wheat
-#F5DEB3
-White
-#FFFFFF
-WhiteSmoke
-#F5F5F5
-&nbsp;              |   &nbsp;      | &nbsp;
-Yellow
-#FFFF00
-YellowGreen
-#9ACD32
+PeachPuff           | #FFDAB9       | <span style="background-color:peachpuff; display:block; width: 100px">&nbsp;</span>
+Peru                | #CD853F       | <span style="background-color:peru; display:block; width: 100px">&nbsp;</span>
+Pink                | #FFC0CB       | <span style="background-color:pink; display:block; width: 100px">&nbsp;</span>
+Plum                | #DDA0DD       | <span style="background-color:plum; display:block; width: 100px">&nbsp;</span>
+PowderBlue          | #B0E0E6       | <span style="background-color:powderblue; display:block; width: 100px">&nbsp;</span>
+Purple              | #800080       | <span style="background-color:purple; display:block; width: 100px">&nbsp;</span>
+&nbsp;              | &nbsp;        | &nbsp;
+RebeccaPurple       | #663399       | <span style="background-color:rebeccapurple; display:block; width: 100px">&nbsp;</span>
+Red                 | #FF0000       | <span style="background-color:red; display:block; width: 100px">&nbsp;</span>
+RosyBrown           | #BC8F8F       | <span style="background-color:rosybrown; display:block; width: 100px">&nbsp;</span>
+RoyalBlue           | #4169E1       | <span style="background-color:royalblue; display:block; width: 100px">&nbsp;</span>
+&nbsp;              | &nbsp;        | &nbsp;
+SaddleBrown         | #8B4513       | <span style="background-color:saddlebrown; display:block; width: 100px">&nbsp;</span>
+Salmon              | #FA8072       | <span style="background-color:salmon; display:block; width: 100px">&nbsp;</span>
+SandyBrown          | #F4A460       | <span style="background-color:sandybrown; display:block; width: 100px">&nbsp;</span>
+SeaGreen            | #2E8B57       | <span style="background-color:seagreen; display:block; width: 100px">&nbsp;</span>
+SeaShell            | #FFF5EE       | <span style="background-color:seashell; display:block; width: 100px">&nbsp;</span>
+Sienna              | #A0522D       | <span style="background-color:sienna; display:block; width: 100px">&nbsp;</span>
+Silver              | #C0C0C0       | <span style="background-color:silver; display:block; width: 100px">&nbsp;</span>
+SkyBlue             | #87CEEB       | <span style="background-color:skyblue; display:block; width: 100px">&nbsp;</span>
+SlateBlue           | #6A5ACD       | <span style="background-color:slateblue; display:block; width: 100px">&nbsp;</span>
+SlateGray           | #708090       | <span style="background-color:slategray; display:block; width: 100px">&nbsp;</span>
+SlateGrey           | #708090       | <span style="background-color:slategrey; display:block; width: 100px">&nbsp;</span>
+Snow                | #FFFAFA       | <span style="background-color:snow; display:block; width: 100px">&nbsp;</span>
+SpringGreen         | #00FF7F       | <span style="background-color:springgreen; display:block; width: 100px">&nbsp;</span>
+SteelBlue           | #4682B4       | <span style="background-color:steelblue; display:block; width: 100px">&nbsp;</span>
+&nbsp;              | &nbsp;        | &nbsp;
+Tan                 | #D2B48C       | <span style="background-color:tan; display:block; width: 100px">&nbsp;</span>
+Teal                | #008080       | <span style="background-color:teal; display:block; width: 100px">&nbsp;</span>
+Thistle             | #D8BFD8       | <span style="background-color:thistle; display:block; width: 100px">&nbsp;</span>
+Tomato              | #FF6347       | <span style="background-color:tomato; display:block; width: 100px">&nbsp;</span>
+Turquoise           | #40E0D0       | <span style="background-color:turquoise; display:block; width: 100px">&nbsp;</span>
+&nbsp;              | &nbsp;        | &nbsp;
+Violet              | #EE82EE       | <span style="background-color:violet; display:block; width: 100px">&nbsp;</span>
+&nbsp;              | &nbsp;        | &nbsp;
+Wheat               | #F5DEB3       | <span style="background-color:wheat; display:block; width: 100px">&nbsp;</span>
+White               | #FFFFFF       | <span style="background-color:white; display:block; width: 100px">&nbsp;</span>
+WhiteSmoke          | #F5F5F5       | <span style="background-color:whitesmoke; display:block; width: 100px">&nbsp;</span>
+&nbsp;              | &nbsp;        | &nbsp;
+Yellow              | #FFFF00       | <span style="background-color:yellow; display:block; width: 100px">&nbsp;</span>
+YellowGreen         | #9ACD32       | <span style="background-color:yellowgreen; display:block; width: 100px">&nbsp;</span>
