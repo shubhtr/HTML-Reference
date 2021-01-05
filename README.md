@@ -71,10 +71,10 @@ Tag                     | Description
 ## Forms and Input
 Tag                                     | Description                       | Output
 ---                                     | ---                               | ---
-`<form>`                                |                                   | 
+`<form>`                                |                                   | <form>
 &nbsp;                                  | &nbsp;                            | &nbsp;
-`<input>`                               |                                   |
-`<input type="button">`                 | input - button                    | 
+`<input>`                               |                                   | <input>
+`<input type="button">`                 | input - button                    | <input type="button">
 <input type="checkbox">             | input - checkbox
 <input type="color">                | input - color
 <input type="date">                 | input - date
