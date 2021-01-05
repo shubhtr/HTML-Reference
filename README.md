@@ -68,6 +68,34 @@ Tag                     | Description
 &nbsp;                  |
 `<wbr>`                 | defines a possible line-break
 
+## Forms and Input
+Tag                                     | Description                       | Output
+---                                     | ---                               | ---
+`<form>`                                |                                   | 
+&nbsp;                                  | &nbsp;                            | &nbsp;
+`<input>`                               |                                   |
+`<input type="button">`                 | input - button                    | 
+<input type="checkbox">             | input - checkbox
+<input type="color">                | input - color
+<input type="date">                 | input - date
+<input type="datetime-local">       | input - datetime - local
+<input type="email">                | input - email
+<input type="file">                 | input - file
+<input type="hidden">               | input - hidden
+<input type="image">                | input - image
+<input type="month">                | input - month
+<input type="number">               | input - number
+<input type="password">             | input - password
+<input type="radio">                | input - radio
+<input type="range">                | input - range
+<input type="reset">                | input - reset
+<input type="search">               | input - search
+<input type="submit">               | input - submit
+<input type="tel">                  | input - tel
+<input type="text">                 | input - text (default value)
+<input type="time">                 | input - time
+<input type="url">                  | input - url
+<input type="week">                 | input - week
 
 ## Colors
 
