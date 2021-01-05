@@ -4,7 +4,7 @@
 
 Tag                 | Description
 ---                 | ---
-`<!DOCTYPE>`        | 
+`<!DOCTYPE>`        | defines the document type
 `<html>`            | defines an html document
 `<head>`            | metadata/information for the document
 `<title>`           | title of the document
@@ -19,54 +19,54 @@ Tag                 | Description
 
 Tag                     | Description 
 ---                     | ---
-`<abbr>`                | 
-`<addr>`                | 
+`<abbr>`                | an abbreviation or an acronym
+`<addr>`                | contact information for the author/owner of a document/article
 &nbsp;                  |   
-`<b>`                   | 
-`<bdi>`                 |
-`<bdo>`                 |
-`<blockquote>`          |   
+`<b>`                   | bold text
+`<bdi>`                 | isolates a part of text that might be formatted in a different direction from other text outside it
+`<bdo>`                 | overrides the current text direction
+`<blockquote>`          | a section that is quoted from another source
 &nbsp;                  |
-`<cite>`                |
-`<code>`                |
+`<cite>`                | the title of a work
+`<code>`                | a piece of computer code
 &nbsp;                  |
-`<del>`                 |
-`<dfn>`                 |
+`<del>`                 | text that has been deleted from a document
+`<dfn>`                 | specifies a term that is going to be defined within the content
 &nbsp;                  |
-`<em>`                  |
+`<em>`                  | emphasized text
 &nbsp;                  |
-`<i>`                   |
-`<ins>`                 |
+`<i>`                   | a part of text in an alternate voice or mood
+`<ins>`                 | a text that has been inserted into a document
 &nbsp;                  |
-`<kdb>`                 |
+`<kdb>`                 | keyboard input
 &nbsp;                  |
-`<mark>`                |
-`<meter>`               |
+`<mark>`                | defines marked/highlighted text
+`<meter>`               | defines a scalar measurement within a known range (a guage)
 &nbsp;                  |
-`<pre>`                 |
-`<progress>`            |
+`<pre>`                 | preformatted text
+`<progress>`            | represents the progress of a task 
 &nbsp;                  |
-`<q>`                   |
+`<q>`                   | a short quotation
 &nbsp;                  |
-`<rp>`                  |
-`<rt>`                  |
-`<ruby>`                |
+`<rp>`                  | defines what to show in browsers that do not support ruby annotations
+`<rt>`                  | defines an explanation/pronounciation of characters (for East Asian typography)
+`<ruby>`                | defines a ruby annotation (for East Asian typography)
 &nbsp;                  |
-`<s>`                   |
-`<samp>`                |
-`<small>`               |
-`<strong>`              |
-`<sub>`                 |
-`<sup>`                 |
+`<s>`                   | defines text that is no longer correct
+`<samp>`                | defines sample output from a computer program
+`<small>`               | defines smaller text
+`<strong>`              | defines important text
+`<sub>`                 | defines subscripted text
+`<sup>`                 | defines superscripted text
 &nbsp;                  |
-`<template>`            |
-`<time>`                |
+`<template>`            | defines a container for content that should be hidden when the page loads
+`<time>`                | define a specific time (or datetime)
 &nbsp;                  |
-`<u>`                   |
+`<u>`                   | defines some text that is unarticulated and styled differently from normal text
+&nbsp;                  | 
+`<var>`                 | defines a variable
 &nbsp;                  |
-`<var>`                 |
-&nbsp;                  |
-`<wbr>`                 |
+`<wbr>`                 | defines a possible line-break
 
 
 ## Colors
