@@ -69,33 +69,44 @@ Tag                     | Description
 `<wbr>`                 | defines a possible line-break
 
 ## Forms and Input
+
+<ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
+
+<ins>Tip:</ins> Always use the `<label>` tag to define labels for the following:
+
+`<input type="text">`\
+`<input type="checkbox">`\
+`<input type="radio">`\
+`<input type="file">`\
+`<input type="password">`
+
 Tag                                     | Description                       | Output
 ---                                     | ---                               | ---
 `<form>`                                |                                   | <form>
 &nbsp;                                  | &nbsp;                            | &nbsp;
 `<input>`                               |                                   | <input>
 `<input type="button">`                 | input - button                    | <input type="button">
-<input type="checkbox">             | input - checkbox
-<input type="color">                | input - color
-<input type="date">                 | input - date
-<input type="datetime-local">       | input - datetime - local
-<input type="email">                | input - email
-<input type="file">                 | input - file
-<input type="hidden">               | input - hidden
-<input type="image">                | input - image
-<input type="month">                | input - month
-<input type="number">               | input - number
-<input type="password">             | input - password
-<input type="radio">                | input - radio
-<input type="range">                | input - range
-<input type="reset">                | input - reset
-<input type="search">               | input - search
-<input type="submit">               | input - submit
-<input type="tel">                  | input - tel
-<input type="text">                 | input - text (default value)
-<input type="time">                 | input - time
-<input type="url">                  | input - url
-<input type="week">                 | input - week
+`<input type="checkbox">`               | input - checkbox                  | <input type="checkbox">
+`<input type="color">`                  | input - color                     | <input type="color">
+`<input type="date">`                   | input - date                      | <input type="date">
+`<input type="datetime-local">`         | input - datetime - local          | <input type="datetime-local">
+`<input type="email">`                  | input - email                     | <input type="email">
+`<input type="file">`                   | input - file                      | <input type="file">
+`<input type="hidden">`                 | input - hidden                    | <input type="hidden">
+`<input type="image">`                  | input - image                     | <input type="image">
+`<input type="month">`                  | input - month                     | <input type="month">
+`<input type="number">`                 | input - number                    | <input type="number">
+`<input type="password">`               | input - password                  | <input type="password">
+`<input type="radio">`                  | input - radio                     | <input type="radio">
+`<input type="range">`                  | input - range                     | <input type="range">
+`<input type="reset">`                  | input - reset                     | <input type="reset">
+`<input type="search">`                 | input - search                    | <input type="search">
+`<input type="submit">`                 | input - submit                    | <input type="submit">
+`<input type="tel">`                    | input - tel                       | <input type="tel">
+`<input type="text">`                   | input - text (default value)      | <input type="text">
+`<input type="time">`                   | input - time                      | <input type="time">
+`<input type="url">`                    | input - url                       | <input type="url">
+`<input type="week">`                   | input - week                      | <input type="week">
 
 ## Colors
 
