@@ -119,6 +119,25 @@ Tag                                     | Description                       | Ou
 `<datalist>`                            | a list of pre-defined options for input controls  | <datalist>
 `<output>`                              | defines a result of a calcuation                  | 
 
+## Frames
+
+Tag                 | Description
+---                 | ---
+`<iframe>`          | defines an inline frame
+
+## Images
+
+Tag                 | Description
+---                 | ---
+`<img>`             | image
+`<map>`             | a client-side image map
+`<area>`            | an area inside an image map
+`<canvas>`          | used to draw graphics, on the fly, via scripting (usually JavaScript)
+`<figcaption>`      | a caption for a `<figure>` element
+`<figure>`          | specifies self-contained content
+`<picture>`         | a container for multiple image resources
+`<svg>`             | a container for SVG graphics
+
 ## Colors
 
 <ins>Note:</ins> The Color column shows the color when previewed in Visual Studio Code. It does not show color on GitHub.com
