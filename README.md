@@ -90,23 +90,34 @@ Tag                                     | Description                       | Ou
 `<input type="color">`                  | input - color                     | <input type="color">
 `<input type="date">`                   | input - date                      | <input type="date">
 `<input type="datetime-local">`         | input - datetime - local          | <input type="datetime-local">
-`<input type="email">`                  | input - email                     | <input type="email">
-`<input type="file">`                   | input - file                      | <input type="file">
-`<input type="hidden">`                 | input - hidden                    | <input type="hidden">
-`<input type="image">`                  | input - image                     | <input type="image">
-`<input type="month">`                  | input - month                     | <input type="month">
-`<input type="number">`                 | input - number                    | <input type="number">
-`<input type="password">`               | input - password                  | <input type="password">
-`<input type="radio">`                  | input - radio                     | <input type="radio">
-`<input type="range">`                  | input - range                     | <input type="range">
-`<input type="reset">`                  | input - reset                     | <input type="reset">
-`<input type="search">`                 | input - search                    | <input type="search">
-`<input type="submit">`                 | input - submit                    | <input type="submit">
-`<input type="tel">`                    | input - tel                       | <input type="tel">
-`<input type="text">`                   | input - text (default value)      | <input type="text">
-`<input type="time">`                   | input - time                      | <input type="time">
-`<input type="url">`                    | input - url                       | <input type="url">
-`<input type="week">`                   | input - week                      | <input type="week">
+`<input type="email">`                  | input - email                                 | <input type="email">
+`<input type="file">`                   | input - file                                  | <input type="file">
+`<input type="hidden">`                 | input - hidden                                | <input type="hidden">
+`<input type="image">`                  | input - image                                 | <input type="image">
+`<input type="month">`                  | input - month                                 | <input type="month">
+`<input type="number">`                 | input - number                                | <input type="number">
+`<input type="password">`               | input - password                              | <input type="password">
+`<input type="radio">`                  | input - radio                                 | <input type="radio">
+`<input type="range">`                  | input - range                                 | <input type="range">
+`<input type="reset">`                  | input - reset                                 | <input type="reset">
+`<input type="search">`                 | input - search                                | <input type="search">
+`<input type="submit">`                 | input - submit                                | <input type="submit">
+`<input type="tel">`                    | input - tel                                   | <input type="tel">
+`<input type="text">`                   | input - text (default value)                  | <input type="text">
+`<input type="time">`                   | input - time                                  | <input type="time">
+`<input type="url">`                    | input - url                                   | <input type="url">
+`<input type="week">`                   | input - week                                  | <input type="week">
+&nbsp;                                  | &nbsp;                                        | &nbsp;
+`<textarea>`                            | a multiline input control (text area)         | <textarea>
+`<button>`                              | a clickable button                            | <button>
+`<select>`                              | a drop-down list                              | <select>
+`<optgroup>`                            | a group of related options in a drop-down list    | <optgroup>
+`<option>`                              | an option in a drop-down list                     | <option>
+`<label>`                               | a label for an `<input>` element                  | <label>
+`<fieldset>`                            | group related elements in a form                  | <fieldset>
+`<legend>`                              | a caption for a `<fieldset>` element              | <legend>
+`<datalist>`                            | a list of pre-defined options for input controls  | <datalist>
+`<output>`                              | defines a result of a calcuation                  | 
 
 ## Colors
 
