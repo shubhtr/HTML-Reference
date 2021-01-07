@@ -108,35 +108,63 @@ Tag                                     | Description                       | Ou
 `<input type="url">`                    | input - url                                   | <input type="url">
 `<input type="week">`                   | input - week                                  | <input type="week">
 &nbsp;                                  | &nbsp;                                        | &nbsp;
-`<textarea>`                            | a multiline input control (text area)         | <textarea>
-`<button>`                              | a clickable button                            | <button>
-`<select>`                              | a drop-down list                              | <select>
-`<optgroup>`                            | a group of related options in a drop-down list    | <optgroup>
-`<option>`                              | an option in a drop-down list                     | <option>
-`<label>`                               | a label for an `<input>` element                  | <label>
-`<fieldset>`                            | group related elements in a form                  | <fieldset>
-`<legend>`                              | a caption for a `<fieldset>` element              | <legend>
-`<datalist>`                            | a list of pre-defined options for input controls  | <datalist>
+`<textarea>`                            | a multiline input control (text area)         | <textarea></textarea>
+`<button>`                              | a clickable button                            | <button></button>
+`<select>`                              | a drop-down list                              | <select></select>
+`<optgroup>`                            | a group of related options in a drop-down list    | <optgroup></optgroup>
+`<option>`                              | an option in a drop-down list                     | <option></option>
+`<label>`                               | a label for an `<input>` element                  | <label></label>
+`<fieldset>`                            | group related elements in a form                  | <fieldset></fieldset>
+`<legend>`                              | a caption for a `<fieldset>` element              | <legend></legend>
+`<datalist>`                            | a list of pre-defined options for input controls  | <datalist></datalist>
 `<output>`                              | defines a result of a calcuation                  | 
 
 ## Frames
 
-Tag                 | Description
----                 | ---
-`<iframe>`          | defines an inline frame
+<ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
+
+Tag                 | Description                           | Output
+---                 | ---                                   | ---
+`<iframe>`          | defines an inline frame               | <iframe></iframe>
 
 ## Images
 
-Tag                 | Description
----                 | ---
-`<img>`             | image
-`<map>`             | a client-side image map
-`<area>`            | an area inside an image map
-`<canvas>`          | used to draw graphics, on the fly, via scripting (usually JavaScript)
-`<figcaption>`      | a caption for a `<figure>` element
-`<figure>`          | specifies self-contained content
-`<picture>`         | a container for multiple image resources
-`<svg>`             | a container for SVG graphics
+<ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
+
+Tag                 | Description                           | Output
+---                 | ---                                   | ---
+`<img>`             | image                                 | <img></img>
+`<map>`             | a client-side image map               | <map></map>
+`<area>`            | an area inside an image map           | <area></area>
+`<canvas>`          | used to draw graphics, on the fly, via scripting (usually JavaScript)     | <canvas></canvas>
+`<figcaption>`      | a caption for a `<figure>` element                                        | <figcaption></figcaption>
+`<figure>`          | specifies self-contained content                                          | <figure></figure>
+`<picture>`         | a container for multiple image resources                                  | <picture></picture>
+`<svg>`             | a container for SVG graphics                                              | <svg></svg>
+
+## Audio / Video
+
+<ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
+
+Tag                 | Description                                                                           | Output
+---                 | ---                                                                                   | ---
+`<audio>`           | sound content                                                                         | <audio></audio>
+`<source>`          | multiple media resources for media elements (`<video>`, `<audio>` and `<picture>`)    | <source></source>
+`<track>`           | text tracks for media elements (`<video>` and `<audio>`)                              | <track></track>
+`<video>`           | a video or movie                                                                      | <video></video>
+
+## Links
+
+<ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
+
+Tag                 | Description                                                                           | Output
+---                 | ---                                                                                   | ---
+`<ul>`              | an unordered list                                                                     | <ul></ul>
+`<ol>`              | an ordered list                                                                       | <ol></ol>
+`<li>`              | a list item                                                                           | <li></li>
+`<dl>`              | a description list                                                                    | <dl></dl>
+`<dt>`              | term/name in a description list                                                       | <dt></dt>
+`<dd>`              | a description of a term/name in a description list                                    | <dd></dd>
 
 ## Colors
 
