@@ -159,12 +159,82 @@ Tag                 | Description                                               
 
 Tag                 | Description                                                                           | Output
 ---                 | ---                                                                                   | ---
+`<a>`               | a hyperlink                                                                           | <a>
+`<link>`            | relationship between a documents and an external resource                             | <link>
+`<nav>`             | navigation links                                                                      | <nav>
+
+## Lists
+
+<ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
+
+Tag                 | Description                                                                           | Output
+---                 | ---                                                                                   | ---
 `<ul>`              | an unordered list                                                                     | <ul></ul>
 `<ol>`              | an ordered list                                                                       | <ol></ol>
 `<li>`              | a list item                                                                           | <li></li>
 `<dl>`              | a description list                                                                    | <dl></dl>
 `<dt>`              | term/name in a description list                                                       | <dt></dt>
 `<dd>`              | a description of a term/name in a description list                                    | <dd></dd>
+
+## Tables
+
+<ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
+
+Tag                 | Description                                                                           | Output
+---                 | ---                                                                                   | ---
+`<table>`           | a table                                                                               | <table></table>
+`<caption>`         | a table caption                                                                       | <caption></caption>
+`<th>`              | a header cell in a table                                                              | <th>
+`<tr>`              | a row in a table                                                                      | <tr>
+`<td>`              | a cell in a table                                                                     | <td>
+`<thead>`           | groups the header content of a table                                                  | <thead>
+`<tbody>`           | groups the body content of a table                                                    | <tbody>
+`<tfoot>`           | groups the footer content of a table                                                  | <tfoot>
+`<col>`             | specifies column properties for each column within a `<colgroup>` element             | <col>
+`<colgroup>`        | specifies a group of one or more columns in a table for formatting                    | <colgroup>
+
+## Styles and Semantics
+
+<ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
+
+Tag                 | Description                                                                           | Output
+---                 | ---                                                                                   | ---
+`<style>`           | a style information for a document                                                    | <style>
+`<div>`             | a section in a document                                                               | <div>
+`<span>`            | a section in a document                                                               | <span>
+`<header>`          | a header for a document or section                                                    | <header>
+`<footer>`          | a footer for a document or section                                                    | <footer>
+`<main>`            | the main content of a document                                                        | <main>
+`<section>`         | a section in a document                                                               | <section>
+`<article>`         | an article                                                                            | <article>
+`<aside>`           | content aside from the page content                                                   | <aside>
+`<details>`         | additional details that the user can view or hide                                     | <details>
+`<dialog>`          | a dialog box or window                                                                | <dialog>
+`<summary>`         | a visible heading for a `<details>` document                                          | <summary>
+`<data>`            | adds a machine-readable translation of a given content                                | <data>
+
+## Meta Info
+
+<ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
+
+Tag                 | Description                                                                           | Output
+---                 | ---                                                                                   | ---
+`<head>`            | information about the document                                                        | <head>
+`<meta>`            | metadata about an HTML document                                                       | <meta>
+`<base>`            | based url/target for all relative URLS in a document                                  | <base>
+
+
+## Programming
+
+<ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
+
+Tag                 | Description                                                                           | Output
+---                 | ---                                                                                   | ---
+`<script>`          | a client-side script                                                                  | <script>
+`<noscript>`        | an alternate content for users that do not support client-side scripts                | <noscript>
+`<embed>`           | a container for an external (non-HTML) application                                    | <embed>
+`<object>`          | an embedded object                                                                    | <object>
+`<param>`           | a parameter for an object                                                             | <param>
 
 ## Colors
 
