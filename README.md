@@ -159,9 +159,9 @@ Tag                 | Description                                               
 
 Tag                 | Description                                                                           | Output
 ---                 | ---                                                                                   | ---
-`<a>`               | a hyperlink                                                                           | <a>
-`<link>`            | relationship between a documents and an external resource                             | <link>
-`<nav>`             | navigation links                                                                      | <nav>
+`<a>`               | a hyperlink                                                                           | <a></a>
+`<link>`            | relationship between a documents and an external resource                             | <link></link>
+`<nav>`             | navigation links                                                                      | <nav></nav>
 
 ## Lists
 
@@ -184,14 +184,14 @@ Tag                 | Description                                               
 ---                 | ---                                                                                   | ---
 `<table>`           | a table                                                                               | <table></table>
 `<caption>`         | a table caption                                                                       | <caption></caption>
-`<th>`              | a header cell in a table                                                              | <th>
-`<tr>`              | a row in a table                                                                      | <tr>
-`<td>`              | a cell in a table                                                                     | <td>
-`<thead>`           | groups the header content of a table                                                  | <thead>
-`<tbody>`           | groups the body content of a table                                                    | <tbody>
-`<tfoot>`           | groups the footer content of a table                                                  | <tfoot>
-`<col>`             | specifies column properties for each column within a `<colgroup>` element             | <col>
-`<colgroup>`        | specifies a group of one or more columns in a table for formatting                    | <colgroup>
+`<th>`              | a header cell in a table                                                              | <th></th>
+`<tr>`              | a row in a table                                                                      | <tr></tr>
+`<td>`              | a cell in a table                                                                     | <td></td>
+`<thead>`           | groups the header content of a table                                                  | <thead></thead>
+`<tbody>`           | groups the body content of a table                                                    | <tbody></tbody>
+`<tfoot>`           | groups the footer content of a table                                                  | <tfoot></tfoot>
+`<col>`             | specifies column properties for each column within a `<colgroup>` element             | <col></col>
+`<colgroup>`        | specifies a group of one or more columns in a table for formatting                    | <colgroup></colgroup>
 
 ## Styles and Semantics
 
@@ -199,19 +199,19 @@ Tag                 | Description                                               
 
 Tag                 | Description                                                                           | Output
 ---                 | ---                                                                                   | ---
-`<style>`           | a style information for a document                                                    | <style>
-`<div>`             | a section in a document                                                               | <div>
-`<span>`            | a section in a document                                                               | <span>
-`<header>`          | a header for a document or section                                                    | <header>
-`<footer>`          | a footer for a document or section                                                    | <footer>
-`<main>`            | the main content of a document                                                        | <main>
-`<section>`         | a section in a document                                                               | <section>
-`<article>`         | an article                                                                            | <article>
-`<aside>`           | content aside from the page content                                                   | <aside>
-`<details>`         | additional details that the user can view or hide                                     | <details>
-`<dialog>`          | a dialog box or window                                                                | <dialog>
-`<summary>`         | a visible heading for a `<details>` document                                          | <summary>
-`<data>`            | adds a machine-readable translation of a given content                                | <data>
+`<style>`           | a style information for a document                                                    | <style></style>
+`<div>`             | a section in a document                                                               | <div></div>
+`<span>`            | a section in a document                                                               | <span></span>
+`<header>`          | a header for a document or section                                                    | <header></header>
+`<footer>`          | a footer for a document or section                                                    | <footer></footer>
+`<main>`            | the main content of a document                                                        | <main></main>
+`<section>`         | a section in a document                                                               | <section></section>
+`<article>`         | an article                                                                            | <article></article>
+`<aside>`           | content aside from the page content                                                   | <aside></aside>
+`<details>`         | additional details that the user can view or hide                                     | <details></details>
+`<dialog>`          | a dialog box or window                                                                | <dialog></dialog>
+`<summary>`         | a visible heading for a `<details>` document                                          | <summary></summary>
+`<data>`            | adds a machine-readable translation of a given content                                | <data></data>
 
 ## Meta Info
 
@@ -219,9 +219,9 @@ Tag                 | Description                                               
 
 Tag                 | Description                                                                           | Output
 ---                 | ---                                                                                   | ---
-`<head>`            | information about the document                                                        | <head>
-`<meta>`            | metadata about an HTML document                                                       | <meta>
-`<base>`            | based url/target for all relative URLS in a document                                  | <base>
+`<head>`            | information about the document                                                        | <head></head>
+`<meta>`            | metadata about an HTML document                                                       | <meta></meta>
+`<base>`            | based url/target for all relative URLS in a document                                  | <base></base>
 
 
 ## Programming
@@ -230,11 +230,11 @@ Tag                 | Description                                               
 
 Tag                 | Description                                                                           | Output
 ---                 | ---                                                                                   | ---
-`<script>`          | a client-side script                                                                  | <script>
-`<noscript>`        | an alternate content for users that do not support client-side scripts                | <noscript>
-`<embed>`           | a container for an external (non-HTML) application                                    | <embed>
-`<object>`          | an embedded object                                                                    | <object>
-`<param>`           | a parameter for an object                                                             | <param>
+`<script>`          | a client-side script                                                                  | <script></script>
+`<noscript>`        | an alternate content for users that do not support client-side scripts                | <noscript></noscript>
+`<embed>`           | a container for an external (non-HTML) application                                    | <embed></embed>
+`<object>`          | an embedded object                                                                    | <object></object>
+`<param>`           | a parameter for an object                                                             | <param></param>
 
 ## Colors
 
