@@ -245,6 +245,13 @@ Tag                 | Description                                               
 `&emsp;`            | tab                                                                                   | &emsp;  
 `&nbsp;`            | space                                                                                 | &nbsp;
 
+## Status Codes
+
+Code | Status | Description
+--- | --- | ---
+200 | OK | request was successfully carried out
+301 | Moved Permanently | data requested from the client cannot be found under the given address since it has been moved permanently
+
 
 ## Colors
 
