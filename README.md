@@ -236,6 +236,16 @@ Tag                 | Description                                               
 `<object>`          | an embedded object                                                                    | <object></object>
 `<param>`           | a parameter for an object                                                             | <param></param>
 
+## Special Characters
+
+<ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
+
+Tag                 | Description                                                                           | Output
+---                 | ---                                                                                   | ---
+`&emsp;`            | tab                                                                                   | &emsp;  
+`&nbsp;`            | space                                                                                 | &nbsp;
+
+
 ## Colors
 
 <ins>Note:</ins> The Color column shows the color when previewed in Visual Studio Code. It does not show color on GitHub.com
