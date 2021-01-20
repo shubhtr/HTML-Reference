@@ -267,10 +267,12 @@ Code | Status | Description
 &nbsp; | &nbsp; | &nbsp;
 301 | <b>Moved Permanently</b> | data requested from the client cannot be found under the given address since it has been moved permanently
 302 | <b>Moved Temporarily</b> | the requested data has temporarily been moved. remaining information is specified so that an automatic redirection can take place. the old address remains valid.
+307 | <b>Temporary redirect</b> | a more specific redirect method than the 302 code and has the browser perform the redirect instead of the server. This is useful for sites served on HTTPS that are on an HTTP Strict-Transport-Security (HSTS) preload list.
 &nbsp; | &nbsp; | &nbsp;
 400 | <b>Bad Request</b> | something went wrong with the client request.
 403 | <b>Forbidden</b> | the requested data is access protected and the request cannot performed due to client's lack of authorization. 
 404 | <b>Not Found</b> | requested website information was not found on the server. it could be that the address no longer exists or the contents were moved to a new address without notice. any links to non-existing pages are known as 'dead links'
+410 | <b>Gone</b> | a resource or URL is unavailable because it was deleted on purpose and was not redirected.
 &nbsp; | &nbsp; | &nbsp;
 500 | <b>Internal Server Error</b>| 500 server response functions as a collection status code for unexpected server errors. If an error occurs on the server’s part, which prevents the requested data from being retrieved, this HTTP status code will automatically be issued. As well as sending an answer to the client the webserver also creates an internal error report. 
 502 | <b>Bad Gateway</b> | It’s delivered when the server, which is accessed via the main server, couldn’t forward the request. In this case, the first server functions only as a proxy or gateway.
