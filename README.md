@@ -245,13 +245,39 @@ Tag                 | Description                                               
 `&emsp;`            | tab                                                                                   | &emsp;  
 `&nbsp;`            | space                                                                                 | &nbsp;
 
+<br><br>
+
 ## Status Codes
+
+### Status Code Classes
+
+Class | Description | Details
+--- | --- | ---
+1xxs</b> | <b>Informational responses</b> | the server is thinking through the request.
+2xxs</b> | <b>Success!</b> | The request was successfully completed and the server gave the browser the expected response.
+3xxs</b> | <b>Redirection</b> | You got redirected somewhere else. The request was received, but there's a redirect of some kind.
+4xxs</b> | <b>Client errors</b> | Page not found. The site or page couldn't be reached. (The request was made, but the page isn't valid - this is an error on the website's side of the conversation and often appears when a page doesn't exist on the site.)
+5xxs</b> | <b>Server errors</b> | Failure. A valid request was made by the client but the server failed to complete the request.
+
+### Common status codes
 
 Code | Status | Description
 --- | --- | ---
-200 | OK | request was successfully carried out
-301 | Moved Permanently | data requested from the client cannot be found under the given address since it has been moved permanently
+200 | <b>OK</b> | request was successfully carried out
+&nbsp; | &nbsp; | &nbsp;
+301 | <b>Moved Permanently</b> | data requested from the client cannot be found under the given address since it has been moved permanently
+302 | <b>Moved Temporarily</b> | the requested data has temporarily been moved. remaining information is specified so that an automatic redirection can take place. the old address remains valid.
+&nbsp; | &nbsp; | &nbsp;
+400 | <b>Bad Request</b> | something went wrong with the client request.
+403 | <b>Forbidden</b> | the requested data is access protected and the request cannot performed due to client's lack of authorization. 
+404 | <b>Not Found</b> | requested website information was not found on the server. it could be that the address no longer exists or the contents were moved to a new address without notice. any links to non-existing pages are known as 'dead links'
+&nbsp; | &nbsp; | &nbsp;
+500 | <b>Internal Server Error</b>| 500 server response functions as a collection status code for unexpected server errors. If an error occurs on the server’s part, which prevents the requested data from being retrieved, this HTTP status code will automatically be issued. As well as sending an answer to the client the webserver also creates an internal error report. 
+502 | <b>Bad Gateway</b> | It’s delivered when the server, which is accessed via the main server, couldn’t forward the request. In this case, the first server functions only as a proxy or gateway.
+503 | <b>Service Unavailable</b> | the relevant web server, which should deliver the requested information, is overloaded. The server response occasionally contains information about when the request can be processed at the earliest.
+504 | <b>Gateway Timeout</b> | the cause of the failure was due to a timeout during the processing of a request.
 
+<br><br>
 
 ## Colors
 
