@@ -119,6 +119,70 @@ Tag                                     | Description                       | Ou
 `<datalist>`                            | a list of pre-defined options for input controls  | <datalist></datalist>
 `<output>`                              | defines a result of a calcuation                  | 
 
+<br><br>
+
+## Examples
+
+Radio Buttons
+
+    <!DOCTYPE html>
+    <html>
+    <body>
+
+    <h1>Display Radio Buttons</h1>
+
+    <form action="/action_page.php">
+    <p>Please select your gender:</p>
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="male">Male</label><br>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="female">Female</label><br>
+    <input type="radio" id="other" name="gender" value="other">
+    <label for="other">Other</label>
+
+    <br>  
+
+    <p>Please select your age:</p>
+    <input type="radio" id="age1" name="age" value="30">
+    <label for="age1">0 - 30</label><br>
+    <input type="radio" id="age2" name="age" value="60">
+    <label for="age2">31 - 60</label><br>  
+    <input type="radio" id="age3" name="age" value="100">
+    <label for="age3">61 - 100</label><br><br>
+    <input type="submit" value="Submit">
+    </form>
+
+    </body>
+    </html>
+
+select
+
+    <!DOCTYPE html>
+    <html>
+    <body>
+
+    <h1>The select element</h1>
+
+    <p>The select element is used to create a drop-down list.</p>
+
+    <form action="/action_page.php">
+    <label for="cars">Choose a car:</label>
+    <select name="cars" id="cars">
+        <option value="volvo">Volvo</option>
+        <option value="saab">Saab</option>
+        <option value="opel">Opel</option>
+        <option value="audi">Audi</option>
+    </select>
+    <br><br>
+    <input type="submit" value="Submit">
+    </form>
+
+    <p>Click the "Submit" button and the form-data will be sent to a page on the 
+    server called "action_page.php".</p>
+
+    </body>
+    </html>
+
 ## Frames
 
 <ins>Note:</ins> The Output column shows some elements when previewed in Visual Studio Code. It does not show this on GitHub.com
@@ -162,6 +226,12 @@ Tag                 | Description                                               
 `<a>`               | a hyperlink                                                                           | <a></a>
 `<link>`            | relationship between a documents and an external resource                             | <link></link>
 `<nav>`             | navigation links                                                                      | <nav></nav>
+
+
+### Open in a new window
+Use `target="_blank"`
+
+`<a href="www.google.com" target="_blank">`
 
 ## Lists
 
